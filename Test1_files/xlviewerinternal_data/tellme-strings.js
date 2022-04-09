@@ -1,0 +1,1 @@
+var TellmeStrings={RecentlyUsedTitle:"Utilisés récemment",TryCommandsTitle:"Suggestions",PeopleTitle:"Contacts",DocumentsTitle:"Documents",ClassifierTitle:"Actions",FindInDocTitle:"Rechercher dans le document",SeeMore:"Voir plus de résultats pour",AnswerTitle:"Réponse rapide",EntityTitle:"Entité",DefinitionTitle:"Définition",HelpTitle:"Obtenir de l’aide sur"};
